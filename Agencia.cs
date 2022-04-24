@@ -1,6 +1,6 @@
-using System.Runtime.Serialization;
-using System.Reflection.Emit;
-using Internal;
+//using System.Runtime.Serialization;
+//using System.Reflection.Emit;
+//using Internal;
 //using System.Collections.Concurrent;
 //using System.Runtime.Serialization;
 //using System.Reflection.Emit;
@@ -19,11 +19,7 @@ using ProjetoAgencia;
         static void Main(string[] args) {
 
             Console.WriteLine("::: Bem-vindo à Agência de Turismo :::");
-
-            //Metodos que mostram a passagem e/ou pacote
-
-            // getResumo();
-
+            
             Console.WriteLine("Você escolheu com a melhor... Boa viagem!!!");
         }
 
